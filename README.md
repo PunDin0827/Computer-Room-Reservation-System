@@ -39,10 +39,10 @@
 - **computerRoom.txt**: 存儲機房資訊。
 - **order.txt**: 存儲預約記錄。
 
-- 確保在項目目錄中創建以下數據文件，或修改 globalfile.h 以指向您的數據文件：
+- 確保在項目目錄中創建以下數據文件，或修改 globalfile.h的數據文件：
 
-adminName adminPassword
-studentId studentName studentPassword
-teacherId teacherName teacherPassword
-roomId maxCapacity
-date:weekDay interval:timePeriod stuId:studentId stuName:studentName roomId:roomId status:reservationStatus
+admin.txt: adminName adminPassword
+student.txt: studentId studentName studentPassword
+teacher.txt: teacherId teacherName teacherPassword
+computerRoom.txt: roomId maxCapacity
+order.txt: date:weekDay interval:timePeriod stuId:studentId stuName:studentName roomId:roomId status:reservationStatus
