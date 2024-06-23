@@ -44,4 +44,9 @@
 - **order.txt**: 存儲預約記錄。
   date:weekDay / interval:timePeriod / stuId:studentId / stuName:studentName / roomId:roomId / status:reservationStatus
 
-- 確保在項目目錄中創建以下數據文件，或修改 globalfile.h的數據文件：
+- 確保在項目目錄中創建以下數據文件，或修改 globalfile.h的數據文件
+
+- 使用方法
+運行程序後，系統會提示選擇身份（學生、老師或管理員）。
+根據選擇，輸入對應的身分認證。
+登錄成功後，可以根據用戶類型執行各種操作。
