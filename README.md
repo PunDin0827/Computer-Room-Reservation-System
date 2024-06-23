@@ -41,8 +41,8 @@
 
 - 確保在項目目錄中創建以下數據文件，或修改 globalfile.h的數據文件：
 
-admin.txt: adminName adminPassword
-student.txt: studentId studentName studentPassword
-teacher.txt: teacherId teacherName teacherPassword
-computerRoom.txt: roomId maxCapacity
+admin.txt: adminName adminPassword  
+student.txt: studentId studentName studentPassword  
+teacher.txt: teacherId teacherName teacherPassword  
+computerRoom.txt: roomId maxCapacity  
 order.txt: date:weekDay interval:timePeriod stuId:studentId stuName:studentName roomId:roomId status:reservationStatus
