@@ -34,10 +34,16 @@
 - ## 文件說明
 
 - **admin.txt**: 存儲管理員資訊。
+- adminName / adminPassword
 - **student.txt**: 存儲學生資訊。
+- studentId / studentName / studentPassword  
 - **teacher.txt**: 存儲老師資訊。
+- teacherId / teacherName / teacherPassword  
 - **computerRoom.txt**: 存儲機房資訊。
+- roomId / maxCapacity  
 - **order.txt**: 存儲預約記錄。
+- date:weekDay / interval:timePeriod / stuId:studentId / stuName:studentName / roomId:roomId / status:reservationStatus
+
 
 - 確保在項目目錄中創建以下數據文件，或修改 globalfile.h的數據文件：
 
