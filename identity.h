@@ -8,7 +8,7 @@ public:
 
 	virtual void operMenu() = 0;
 
-	string m_Name; //¥Î¤á¦WºÙ
-	string m_Pwd; //¥Î¤á±K½X
+	string m_Name; //ç”¨æˆ¶åç¨±
+	string m_Pwd; //ç”¨æˆ¶å¯†ç¢¼
 
 };
